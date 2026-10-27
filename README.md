@@ -1,5 +1,4 @@
-# Alert 
-Campus 
+# Alert Campus 
 
 AlertCampus — Documentação Inicial
 1. Visão geral
