@@ -27,6 +27,7 @@ Package manager: Bun (bunfig.toml)
 Tipografia: Plus Jakarta Sans (Google Fonts)
 
 Ícone/favicon: public/favicon.png e logo em src/assets/alertcampus-logo.png
+
 ---
 1. Visão geral
 O AlertCampus é um aplicativo voltado para organização da vida acadêmica do estudante.
