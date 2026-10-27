@@ -1,6 +1,33 @@
 # Alert Campus 
 
 AlertCampus — Documentação Inicial
+
+Stack Completa
+
+Framework full-stack: TanStack Start v1 + React 19 + TypeScript
+
+Build / dev server: Vite 7
+
+Estilização: Tailwind CSS v4 (via src/styles.css com @theme)
+
+Componentes UI: shadcn/ui + Radix UI
+Gerenciamento de estado assíncrono: TanStack Query (React Query)
+
+Notificações/toasts: Sonner
+
+Backend / banco / auth: Lovable Cloud (Supabase) — PostgreSQL + Row Level Security + Auth
+Cliente Supabase: @supabase/supabase-js
+
+Tipagem do banco: gerada automaticamente em src/integrations/supabase/types.ts
+
+Runtime serverless: Cloudflare Workers (edge)
+
+Package manager: Bun (bunfig.toml)
+
+Tipografia: Plus Jakarta Sans (Google Fonts)
+
+Ícone/favicon: public/favicon.png e logo em src/assets/alertcampus-logo.png
+---
 1. Visão geral
 O AlertCampus é um aplicativo voltado para organização da vida acadêmica do estudante.
 O sistema tem como objetivo permitir que o usuário acompanhe suas atividades acadêmicas, visualize prazos e receba alertas relacionados às suas obrigações.
